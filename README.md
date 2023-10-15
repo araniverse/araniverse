@@ -1,6 +1,6 @@
 # 🚩Hi, I'm Ara! 
 
-I am a junior programmer, let see what happening here's.
+Let see what happening here's.
 
 <!---
 araanv/araanv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
