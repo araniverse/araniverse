@@ -1,11 +1,12 @@
 # 🚩Hi, I'm Ara! 
 
 I am a junior programmer, let see what happening here's.
----
+
 <!---
 araanv/araanv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+### ---
 ### My Tech Stack <br/>
 
 ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
