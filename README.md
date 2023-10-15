@@ -18,7 +18,7 @@ My Tech Stack <br/>
 ![image](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor=F7DF1E) 
 ![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![image](https://img.shields.io/badge/MySQLite-005C84?style=for-the-badge&logo=mysqlite&logoColor=white)
+![image](https://img.shields.io/badge/SQLite-005C84?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
