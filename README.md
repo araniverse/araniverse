@@ -20,6 +20,7 @@ My Tech Stack <br/>
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://img.shields.io/badge/SQLite-005C84?style=for-the-badge&logo=sqlite&logoColor=white)
 ![image](https://img.shields.io/badge/VisualStudioCode-005C84?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![image](https://img.shields.io/badge/AndroidStudio-005C84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 ---
 
