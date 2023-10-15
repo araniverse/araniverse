@@ -25,8 +25,8 @@ My Tech Stack <br/>
 ---
 
 <a href="https://github.com/araanv">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=araanv&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=araanv&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aranv160-20&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aranv160-20&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 
-![](https://komarev.com/ghpvc/?username=araanv&color=red&style=flat)
+![](https://komarev.com/ghpvc/?username=aranv160-20&color=red&style=flat)
