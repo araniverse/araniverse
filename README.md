@@ -19,7 +19,6 @@ You can click the Preview link to take a look at your changes.
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://img.shields.io/badge/MySQLite-005C84?style=for-the-badge&logo=mysqlite&logoColor=white)
 
-<br/>
 ---
 <a href="https://github.com/araanv">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=araanv&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
