@@ -27,7 +27,7 @@ My Tech Stack <br/>
 <p align="center"><b>Statistic Github</b></p>
 <div align="center">
 <a href="https://github.com/aranv160-20">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aranv160-20&theme=algolia&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aranv160-20&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aranv160-20&theme=algolia&layout=compact&langs_count=6"/>
 </a>
 </div>
