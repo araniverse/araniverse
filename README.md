@@ -23,7 +23,11 @@ My Tech Stack <br/>
 ![image](https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white) 
 
 ---
+### Now Playing 🎧
 
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/xua8qgh04loxw04kq8pdfkqev?si=2949d1cbeefe4cbf)
+<br/>
+---
 <a href="https://github.com/araanv">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=araanv&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=araanv&layout=compact&langs_count=8&theme=algolia"/>
