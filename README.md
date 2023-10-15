@@ -6,7 +6,16 @@ I am a junior programmer, let see what happening here's.
 araanv/araanv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+### Tech Stack <br />
 
+![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![image](https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
+![image](https://img.shields.io/badge/java-323330?style=for-the-badge&logo=java&logoColor=F7DF1E) 
+![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
+![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
+
+<br/>
 
 <a href="https://github.com/araanv">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=araanv&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
