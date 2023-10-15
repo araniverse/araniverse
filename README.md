@@ -32,4 +32,6 @@ My Tech Stack <br/>
 </a>
 </div>
 
+<div align="center">
 ![](https://komarev.com/ghpvc/?username=aranv160-20&color=red&style=flat)
+</div>
