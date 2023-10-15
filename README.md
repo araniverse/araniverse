@@ -1,17 +1,12 @@
 # 🚩Hi, I'm Ara! 
 
-Let see what happening here's.
+I am a junior programmer, let see what happening here's.
 
 <!---
 araanv/araanv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-### Now Playing 🎧
-
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/xua8qgh04loxw04kq8pdfkqev?si=66b2649706784194)
-<br/>
----
 
 <a href="https://github.com/araanv">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=araanv&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
