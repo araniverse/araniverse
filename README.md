@@ -7,7 +7,7 @@ araanv/araanv is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 ---
-My Tech Stack <br/>
+<p align="center"><b>My Tech Stack</b></p>
 
 ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![image](https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
