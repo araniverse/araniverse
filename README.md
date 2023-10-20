@@ -34,4 +34,9 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
+<p align="center"><b>Support Me</b></p>
+![image](https://img.shields.io/badge/TRAKTEERID-777BB4?style=for-the-badge&logo=trakteerid&logoColor=white)
+
+---
+
 ![](https://komarev.com/ghpvc/?username=aranv160-20&color=red&style=flat)
