@@ -32,7 +32,11 @@ You can click the Preview link to take a look at your changes.
 </a>
 </div>
 
+---
 
+<p align="center"><b>Support Me</b></p>
+
+[![TrakteerId](https://img.shields.io/badge/trakteerid-%230077B5.svg?style=for-the-badge&logo=trakteerid&logoColor=white)](https://trakteer.id/aranv160.20/)
 ---
 
 ![](https://komarev.com/ghpvc/?username=aranv160-20&color=red&style=flat)
