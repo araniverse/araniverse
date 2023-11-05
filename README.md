@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 ![image](https://img.shields.io/badge/Bootstrap-05122A?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
 ![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![image](https://img.shields.io/badge/Firebase-005C84?style=for-the-badge&logo=firebase&logoColor=white)
+![image](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) 
 ![image](https://img.shields.io/badge/VisualStudioCode-005C84?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![image](https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white) 
 
