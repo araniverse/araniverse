@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=cconsole.log(%22Hello%2C%20World!%22);%3E%20I'am%20Ara;Hello%2C%20World!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=cconsole.log(%22Hello%2C%20World!%22);%3E%20I'am%20Ara;Thank You %2C%20For Visiting!&center=true&size=27">
   </a>
 </h1>
 
@@ -10,10 +10,6 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/aranv20)
 ![](https://komarev.com/ghpvc/?username=aranv20&color=red&style=flat)
-
-# 🚩Hi, I'm Ara! 
-
-Let see what happening here's.
 
 <!---
 araanv/araanv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
