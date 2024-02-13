@@ -3,6 +3,12 @@
 
 Let see what happening here's.
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://https://www.linkedin.com/in/amelia-rahayu-57b297286/" target="blank"><img align="center" src="https://raw.githubusercontent.com/aranv20/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amelia-rahayu-57b297286" height="30" width="40" /></a>
+<a href="https://instagram.com/aranv.20" target="blank"><img align="center" src="https://raw.githubusercontent.com/aranv20/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aranv.20" height="30" width="40" /></a>
+</p>
+
 <!---
 araanv/araanv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
