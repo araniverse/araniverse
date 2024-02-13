@@ -41,3 +41,13 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
+<p align="center"><b>Contributions</b></p>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=aranv20&theme=react&background=0d1117&border=666">
+  </a>
+  <br>
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://activity-graph.herokuapp.com/graph?username=aranv20&theme=react-dark&hide_border=true">
+  </a>
+</p>
