@@ -33,5 +33,5 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ---
-
+![GitHub followers](https://img.shields.io/github/followers/aranv20)
 ![](https://komarev.com/ghpvc/?username=aranv20&color=red&style=flat)
