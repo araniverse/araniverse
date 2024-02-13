@@ -34,8 +34,8 @@ You can click the Preview link to take a look at your changes.
 <p align="center"><b>Statistic Github</b></p>
 <div align="center">
 <a href="https://github.com/aranv20">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aranv20&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aranv20&theme=algolia&layout=compact&langs_count=6"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aranv20&theme=react&background=0d1117&border=666&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aranv20&theme=react&background=0d1117&border=666&layout=compact&langs_count=6"/>
 </a>
 </div>
 
@@ -45,9 +45,5 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=aranv20&theme=react&background=0d1117&border=666">
-  </a>
-  <br>
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=aranv20&theme=react-dark&hide_border=true">
   </a>
 </p>
