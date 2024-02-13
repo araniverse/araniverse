@@ -1,4 +1,13 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=cconsole.log(%22Hello%2C%20World!%22);%3E%20I'am%20Ara;Hello%2C%20World!&center=true&size=27">
+  </a>
+</h1>
+
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/22b22287602523.5dbd29081561d.gif" width="750px">
+</p>
+
 ![GitHub followers](https://img.shields.io/github/followers/aranv20)
 ![](https://komarev.com/ghpvc/?username=aranv20&color=red&style=flat)
 
