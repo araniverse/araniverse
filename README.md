@@ -4,11 +4,8 @@
   </a>
 </h1>
 
-![tdsocial_dribbble](https://github.com/aranv20/aranv20/assets/113159149/e00b6697-d42a-4a09-a771-67d5f3a73876)
-
-
 <p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/22b22287602523.5dbd29081561d.gif" width="750px">
+![tdsocial_dribbble](https://github.com/aranv20/aranv20/assets/113159149/e00b6697-d42a-4a09-a771-67d5f3a73876)
 </p>
 
 ![GitHub followers](https://img.shields.io/github/followers/aranv20)
