@@ -24,6 +24,8 @@ You can click the Preview link to take a look at your changes.
 ![image](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor=F7DF1E) 
 ![image](https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![image](https://img.shields.io/badge/Bootstrap-05122A?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
+![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
+![image](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) 
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) 
 ![image](https://img.shields.io/badge/VisualStudioCode-005C84?style=for-the-badge&logo=visualstudiocode&logoColor=white)
