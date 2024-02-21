@@ -3,7 +3,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=aaranv20.log(%22Punten%2C%20Puh🙏🏻%22);%3E%20Masih%20Pemula;Ajarin-Dong%2C%20Puh🙏🏻&center=true&size=27">
   </a>
 </h1>
-![Uploading tdsocial_dribbble.gif…]()
+
+![tdsocial_dribbble](https://github.com/aranv20/aranv20/assets/113159149/e00b6697-d42a-4a09-a771-67d5f3a73876)
+
+
 <p align="center">
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/22b22287602523.5dbd29081561d.gif" width="750px">
 </p>
