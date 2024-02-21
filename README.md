@@ -3,13 +3,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=aaranv20.log(%22Punten%2C%20Puh🙏🏻%22);%3E%20Masih%20Pemula;Ajarin-Dong%2C%20Puh🙏🏻&center=true&size=27">
   </a>
 </h1>
-
+![Uploading tdsocial_dribbble.gif…]()
 <p align="center">
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/22b22287602523.5dbd29081561d.gif" width="750px">
 </p>
 
 ![GitHub followers](https://img.shields.io/github/followers/aranv20)
 ![](https://komarev.com/ghpvc/?username=aranv20&color=red&style=flat)
+
 
 <!---
 araanv/araanv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
