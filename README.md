@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-![tdsocial_dribbble](https://github.com/aranv20/aranv20/assets/113159149/e00b6697-d42a-4a09-a771-67d5f3a73876)
+![download](https://github.com/aranv20/aranv20/assets/113159149/3255d019-1259-4d17-953d-dd06298ba643)
 
 ![GitHub followers](https://img.shields.io/github/followers/aranv20)
 ![](https://komarev.com/ghpvc/?username=aranv20&color=red&style=flat)
