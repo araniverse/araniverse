@@ -10,7 +10,7 @@
     <b>Welcome to my github!</b><br><br>
     <i>
         I'm Ara.<br>
-       I am a junior web developer, I am currently undergoing MSIB 6 internship as backend web development at a startup company PT Vetencode Pradani Abadi, West Java. I am very proud to be part of such a technological change and I hope to go beyond this..<br>
+       I am a junior web developer, I am currently undergoing MSIB 6 internship as Backend Web Development at a startup company PT Vetencode Pradani Abadi, West Java. I am very proud to be part of such a technological change and I hope to go beyond this.<br>
     </i>
 </p>
 
