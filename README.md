@@ -4,6 +4,18 @@
   </a>
 </h1>
 
+---
+
+<p align="center">
+    <b>Welcome to my github!</b><br><br>
+    <i>
+        I'm Ara.<br>
+       I am a junior web developer, I am currently undergoing MSIB 6 internship as backend web development at a startup company PT Vetencode Pradani Abadi, West Java. I am very proud to be part of such a technological change and I hope to go beyond this..<br>
+    </i>
+</p>
+
+---
+
 ![APO+_ 画像](https://github.com/aranv20/aranv20/assets/113159149/7e60deec-6861-45c6-96a1-1f7f5f3c9b50)
 
 
