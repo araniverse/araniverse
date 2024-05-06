@@ -14,11 +14,6 @@
     </i>
 </p>
 
-<br>
-[<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">](https://www.instagram.com/aranv.20/)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/amelia-rahayu-57b297286/)
-<br />
-
 ---
 
 ![APO+_ 画像](https://github.com/aranv20/aranv20/assets/113159149/7e60deec-6861-45c6-96a1-1f7f5f3c9b50)
