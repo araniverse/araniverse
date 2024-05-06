@@ -13,6 +13,17 @@
        I am a junior web developer, student of Lampung State Polytechnic and I am currently undergoing MSIB 6 internship as Backend Web Development at a start-up company PT Vetencode Pradani Abadi, West Java. <br>
     </i>
 </p>
+<br>
+<p align="center">
+ 
+ <a href="[https://www.linkedin.com/in/amelia-rahayu-57b297286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ara"/>
+ </a>
+ <a href="[https://www.instagram.com/aranv.20?igsh=MXZsc25oNGpiZ3QyNw==]" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Ara" />
+ </a> 
+</p>
+<br />
 
 ---
 
