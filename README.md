@@ -15,13 +15,9 @@
 </p>
 <br>
 <p align="center">
- 
- <a href="[https://www.linkedin.com/in/amelia-rahayu-57b297286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ara"/>
- </a>
- <a href="[https://www.instagram.com/aranv.20?igsh=MXZsc25oNGpiZ3QyNw==]" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Ara" />
- </a> 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/aranv.20/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amelia-rahayu-57b297286/)
+
 </p>
 <br />
 
