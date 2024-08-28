@@ -9,8 +9,7 @@
 <p align="center">
     <b>That's great, you got here!</b><br><br>
     <i>
-        I'm Ara.<br>
-       I am a junior web developer, student of Lampung State Polytechnic. <br>
+        I'm Ara a junior web programmer. <br>
     </i>
 </p>
 
