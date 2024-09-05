@@ -15,11 +15,11 @@
 
 ---
 
-![APO+_ 画像](https://github.com/aranv20/aranv20/assets/113159149/7e60deec-6861-45c6-96a1-1f7f5f3c9b50)
+![APO+_ 画像](https://github.com/araniverse/araniverse/assets/113159149/7e60deec-6861-45c6-96a1-1f7f5f3c9b50)
 
 
-![GitHub followers](https://img.shields.io/github/followers/aranv20)
-![](https://komarev.com/ghpvc/?username=aranv20&color=red&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/araniverse)
+![](https://komarev.com/ghpvc/?username=araniverse&color=red&style=flat)
 
 
 <!---
