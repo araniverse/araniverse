@@ -15,7 +15,6 @@
     <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="ko-fi logo"  />
   </a>
 </div>
----
 <div align="center">
   <a href="https://open.spotify.com/user/xua8qgh04loxw04kq8pdfkqev">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=%20xua8qgh04loxw04kq8pdfkqev&count=5&unique=true" alt="Spotify recently played"  />
