@@ -114,8 +114,6 @@
 </a>
 </div>
 
----
-
 <p align="center"><b>Contributions</b></p>
 <p align="center">
   <a href="https://git.io/streak-stats">
