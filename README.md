@@ -119,6 +119,6 @@
 <p align="center"><b>Contributions</b></p>
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=aranv20&theme=react&background=0d1117&border=666">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=araniverse&theme=react&background=0d1117&border=666">
   </a>
 </p>
