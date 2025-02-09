@@ -15,6 +15,7 @@
     <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="ko-fi logo"  />
   </a>
 </div>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=xua8qgh04loxw04kq8pdfkqev)
 
 ---
 
