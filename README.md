@@ -6,28 +6,6 @@
 
 ---
 
-<p align="center">
-    <b>That's great, you got here!</b><br><br>
-    <i>
-        I'm Ara, currently I am as a Medical Systems Integrator Engineer at PT Inova Medika Solusindo. Nice to meet you!  <br>
-    </i>
-</p>
-
----
-
-![APO+_ 画像](https://github.com/araniverse/araniverse/assets/113159149/7e60deec-6861-45c6-96a1-1f7f5f3c9b50)
-
-
-![GitHub followers](https://img.shields.io/github/followers/araniverse)
-![](https://komarev.com/ghpvc/?username=araniverse&color=red&style=flat)
-
-
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
-
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/ameliaarahayu/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -40,9 +18,13 @@
   </a>
 </div>
 
-###
+---
 
-<h1 align="center">hey there 👋</h1>
+![APO+_ 画像](https://github.com/araniverse/araniverse/assets/113159149/7e60deec-6861-45c6-96a1-1f7f5f3c9b50)
+
+
+![GitHub followers](https://img.shields.io/github/followers/araniverse)
+![](https://komarev.com/ghpvc/?username=araniverse&color=red&style=flat)
 
 ###
 
