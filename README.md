@@ -27,25 +27,37 @@ araanv/araanv is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 ---
-<p align="center"><b>My Tech Stack</b></p>
+<p align="center"><b>Popular Stack</b></p>
 
+### *Backend* 
+![Java](https://img.shields.io/badge/java-323330?style=for-the-badge&logo=java&logoColor=F7DF1E)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![CodeIgniter](https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)  
+![Laravel](https://img.shields.io/badge/Laravel-EF4223?style=for-the-badge&logo=laravel&logoColor=white) 
+![SQLQuey](https://img.shields.io/badge/SQLQuery-EF4223?style=for-the-badge&logo=sqlquery&logoColor=white) 
 
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java Logo](https://img.shields.io/badge/java-323330?style=for-the-badge&logo=java&logoColor=F7DF1E)
-![image](https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
-![image](https://img.shields.io/badge/Laravel-EF4223?style=for-the-badge&logo=laravel&logoColor=white)
-![image](https://img.shields.io/badge/Bootstrap-05122A?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
-![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![image](https://img.shields.io/badge/jQuery-323330?style=for-the-badge&logo=jQuery&logoColor=F7DF1E)
-![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![image](https://img.shields.io/badge/PostgreSQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white)
-![image](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) 
-![image](https://img.shields.io/badge/VisualStudioCode-005C84?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![image](https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white) 
+### *Frontend*
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
+![jQuery](https://img.shields.io/badge/jQuery-323330?style=for-the-badge&logo=jQuery&logoColor=F7DF1E)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-05122A?style=for-the-badge&logo=bootstrap&logoColor=563D7C)  
 
----
+### *Database*
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)  
+
+### *Interoperabilitas Kesehatan*
+![ASTM](https://img.shields.io/badge/ASTM-008000?style=for-the-badge&logo=health&logoColor=white)  
+![HL7](https://img.shields.io/badge/HL7-FF0000?style=for-the-badge&logo=health&logoColor=white)  
+
+### *Tools & IDE*
+![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-005C84?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
+![Android Studio](https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)  
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)  
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)  
+
 
 <p align="center"><b>Statistic Github</b></p>
 <div align="center">
