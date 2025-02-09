@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=aranv20.log(%22Hai%2C%20👋🏻%22);%3E%20I'm%20Ara;Thanks-For%2C%20Visiting!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=araa4nv.log(%22Hai%2C%20👋🏻%22);%3E%20I'm%20Ara;Thanks-For%2C%20Visiting!&center=true&size=27">
   </a>
 </h1>
 
@@ -9,7 +9,7 @@
 <p align="center">
     <b>That's great, you got here!</b><br><br>
     <i>
-        I'm Ara a junior web programmer. <br>
+        I'm Ara, currently I am as a Medical Systems Integrator Engineer at PT Inova Medika Solusindo. Nice to meet you!  <br>
     </i>
 </p>
 
@@ -50,8 +50,8 @@ You can click the Preview link to take a look at your changes.
 <p align="center"><b>Statistic Github</b></p>
 <div align="center">
 <a href="https://github.com/aranv20">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aranviverse&theme=react&background=0d1117&border=666&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aranviverse&theme=react&background=0d1117&border=666&layout=compact&langs_count=6"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=araniverse&theme=react&background=0d1117&border=666&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=araniverse&theme=react&background=0d1117&border=666&layout=compact&langs_count=6"/>
 </a>
 </div>
 
