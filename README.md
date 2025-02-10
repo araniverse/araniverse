@@ -18,7 +18,7 @@
   </a>
 </div>
 
-  ![photo-2025-02-10-09-26-22.jpg](https://i.postimg.cc/hGvKfcds/photo-2025-02-10-09-26-22.jpg)(https://postimg.cc/tsKKc0Dn)
+ <img src="https://i.postimg.cc/hGvKfcds/photo-2025-02-10-09-26-22.jpg" width="90" height="90" alt="Custom Photo" />
 
 ---
 
