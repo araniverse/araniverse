@@ -19,7 +19,8 @@
 </div>
      
 ---
- <img src="https://i.postimg.cc/hGvKfcds/photo-2025-02-10-09-26-22.jpg" width="100" height="100" alt="Custom Photo" />
+<h3 align="center">Scan ME!</h3>
+ <img align = "center" src="https://i.postimg.cc/hGvKfcds/photo-2025-02-10-09-26-22.jpg" height="150" alt="Custom Photo" />
  
 ---
 
