@@ -17,9 +17,10 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" alt="araa4nv" />
   </a>
 </div>
-
- <img src="https://i.postimg.cc/hGvKfcds/photo-2025-02-10-09-26-22.jpg" width="90" height="90" alt="Custom Photo" />
-
+     
+---
+ <img src="https://i.postimg.cc/hGvKfcds/photo-2025-02-10-09-26-22.jpg" width="100" height="100" alt="Custom Photo" />
+ 
 ---
 
 ![APO+_ 画像](https://github.com/araniverse/araniverse/assets/113159149/7e60deec-6861-45c6-96a1-1f7f5f3c9b50)
