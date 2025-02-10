@@ -20,7 +20,7 @@
      
 ---
 <h3 align="center">Scan ME!</h3>
- <img align = "center" src="https://i.postimg.cc/hGvKfcds/photo-2025-02-10-09-26-22.jpg" height="150" alt="Custom Photo" />
+ <img align="center" src="https://i.postimg.cc/hGvKfcds/photo-2025-02-10-09-26-22.jpg" height="150" alt="Custom Photo" />
  
 ---
 
