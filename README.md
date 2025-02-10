@@ -5,8 +5,6 @@
 </h1>
 
 <div align="center">
-  
- <img src="https://i.postimg.cc/hGvKfcds/photo-2025-02-10-09-26-22.jpg" height="150" alt="Custom Photo" />
    <a href="https://t.me/araniverse" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   <a href="https://www.linkedin.com/in/ameliaarahayu/" target="_blank">
