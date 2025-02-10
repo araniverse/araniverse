@@ -21,7 +21,14 @@
 </div>
      
 ---
+<div align="center">
+<h3 >🛠 Scan Here!</h3>
 
+ <img src="https://i.postimg.cc/hGvKfcds/photo-2025-02-10-09-26-22.jpg" height="150" alt="Custom Photo" />
+
+</div>
+
+---
 
 ![APO+_ 画像](https://github.com/araniverse/araniverse/assets/113159149/7e60deec-6861-45c6-96a1-1f7f5f3c9b50)
 
