@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
   <a href="https://trakteer.id/araa4nv/tip" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="araa4nv" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="25" alt="araa4nv" />
   </a>
 </div>
 
