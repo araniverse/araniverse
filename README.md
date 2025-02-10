@@ -5,6 +5,8 @@
 </h1>
 
 <div align="center">
+  
+ <img src="https://i.postimg.cc/hGvKfcds/photo-2025-02-10-09-26-22.jpg" height="150" alt="Custom Photo" />
    <a href="https://t.me/araniverse" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   <a href="https://www.linkedin.com/in/ameliaarahayu/" target="_blank">
@@ -19,10 +21,7 @@
 </div>
      
 ---
-<h3 align="center">Scan ME!</h3>
- <img align="center" src="https://i.postimg.cc/hGvKfcds/photo-2025-02-10-09-26-22.jpg" height="150" alt="Custom Photo" />
- 
----
+
 
 ![APO+_ 画像](https://github.com/araniverse/araniverse/assets/113159149/7e60deec-6861-45c6-96a1-1f7f5f3c9b50)
 
