@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">I'm Ara from Bandung City<br><br>- 🔭 I’m working as Medical System Integrator Engineer<br>- 📚 I'm currently learning Java Programming<br>- ⚡ In my free time I play Mobile Legends: Bang Bang</p>
+<p align="left">I'm Ara from Bandung City<br><br>- 🔭 I’m working as Medical System Integrator Engineer<br>- 📚 I'm currently learning Node JS and Laravel Framework<br>- ⚡ In my free time I play Mobile Legends: Bang Bang</p>
 
 ###
 
