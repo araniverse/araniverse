@@ -17,14 +17,7 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" alt="araa4nv" />
   </a>
 </div>
-     
----
-<div align="center">
-<h3 >🛠 Scan For Support!</h3>
 
- <img src="https://i.postimg.cc/hGvKfcds/photo-2025-02-10-09-26-22.jpg" height="150" alt="Custom Photo" />
-
-</div>
 
 ---
 
