@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm Ara from Bandung City<br><br>- 🔭 I’m working as Medical System Integrator Engineer<br>- 📚 I'm currently learning Node JS and Laravel Framework<br>-  💻 Outside of work, I take on freelance web development projects</p>
+<p align="left">I'm Ara from Bandung City<br><br>- 🔭 I’m working as Medical System Integrator Engineer at PT. Inova Medika Solusindo<br>- 📚 Right now, I'm learning Node JS and Laravel Framework<br>-  💻 Outside of work, I take on freelance web development projects</p>
 
 ###
 
@@ -67,6 +67,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwindcss logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="40" alt="vitejs logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
   <img width="12" />
