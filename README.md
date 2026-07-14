@@ -8,7 +8,7 @@
   <p>
     I am a Medical System Integrator Engineer with expertise in healthcare system integration and full-stack web development. My work involves integrating medical devices and healthcare systems through interface protocols, transforming data into JSON, and delivering it to systems such as HIS, LIS, and RIS.
 
-Beyond system integration, I build modern web applications using Laravel Blade, Vite, Tailwind CSS, JavaScript, Node.js, and Express.js, with a strong focus on developing scalable RESTful APIs and efficient backend solutions.
+Beyond system integration, I build modern web applications using React JS, Next JS, TypeScript, JavaScript, Node.js, and Express.js, with a strong focus on developing scalable RESTful APIs and efficient backend solutions.
 
   </p>
   <a href="https://trakteer.id/araa4nv/tip" target="_blank">
@@ -50,8 +50,6 @@ Beyond system integration, I build modern web applications using Laravel Blade, 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
@@ -72,11 +70,17 @@ Beyond system integration, I build modern web applications using Laravel Blade, 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />  
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="40" alt="nextjs logo" />
+  <img width="12" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="Tailwind CSS" />
   <img width="12" />
