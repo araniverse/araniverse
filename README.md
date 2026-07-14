@@ -8,7 +8,7 @@
   <p>
     I am a Medical System Integrator Engineer with expertise in healthcare system integration and full-stack web development. My work involves integrating medical devices and healthcare systems through interface protocols, transforming data into JSON, and delivering it to systems such as HIS, LIS, and RIS.
 
-Beyond system integration, I build modern web applications using React JS, Next JS, TypeScript, JavaScript, Node.js, and Express.js, with a strong focus on developing scalable RESTful APIs and efficient backend solutions.
+Beyond system integration, I build modern web applications using React.js, Next.js, Node.js, and Express.js, with a strong focus on developing scalable RESTful APIs and efficient backend solutions.
 
   </p>
   <a href="https://trakteer.id/araa4nv/tip" target="_blank">
@@ -31,7 +31,7 @@ Beyond system integration, I build modern web applications using React JS, Next 
 
 ###
 
-<p align="left">I'm Ara from Bandung City<br><br>- 🔭 I’m working as Medical System Integrator Engineer at PT. Inova Medika Solusindo<br>- 📚 Right now, I'm learning Node JS and Laravel Framework<br>-  💻 Outside of work, I take on freelance web development projects</p>
+<p align="left">I'm Ara from Bandung City<br><br>- 🔭 I’m working as Medical System Integrator Engineer at PT. Inova Medika Solusindo<br>- 📚 Right now, I'm learning React Next JS and Node Express JS<br>-  💻 Outside of work, I take on freelance web development projects</p>
 
 ###
 
@@ -97,8 +97,6 @@ Beyond system integration, I build modern web applications using React JS, Next 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo" />
-  <img width="12"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   <img width="12"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   <img width="12"/>
