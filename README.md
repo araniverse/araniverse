@@ -11,9 +11,6 @@
 Beyond system integration, I build modern web applications using Next.js and Nest.js, with a strong focus on developing scalable RESTful APIs and efficient backend solutions.
 
   </p>
-  <a href="https://trakteer.id/araa4nv/tip" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" alt="araa4nv" />
-  </a>
 </div>
 
 
@@ -27,7 +24,7 @@ Beyond system integration, I build modern web applications using Next.js and Nes
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">About Me</h3>
 
 ###
 
@@ -35,7 +32,7 @@ Beyond system integration, I build modern web applications using Next.js and Nes
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">Language and tools</h3>
 
 ###
 
@@ -105,8 +102,14 @@ Beyond system integration, I build modern web applications using Next.js and Nes
 </div>
 
 ###
+<h3 align="left">Support Me :</h3>
+<div align="center">
+  <img src="./Desain%20tanpa%20judul.png" width="500" alt="Desain" />
+</div>
 
-<h3 align="left">🔥   My Stats :</h3>
+###
+
+<h3 align="left">My Stats :</h3>
 
 ###
 
