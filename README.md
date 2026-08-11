@@ -82,6 +82,8 @@ Beyond system integration, I build modern web applications using Next.js and Nes
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo" />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="Tailwind CSS" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/vite/646CFF" height="40" alt="Vite" />
