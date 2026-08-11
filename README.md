@@ -14,8 +14,6 @@ Beyond system integration, I build modern web applications using Next.js and Nes
 </div>
 
 
----
-
 ![APO+_ 画像](https://github.com/araniverse/araniverse/assets/113159149/7e60deec-6861-45c6-96a1-1f7f5f3c9b50)
 
 
