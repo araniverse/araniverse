@@ -6,7 +6,7 @@
 
 <div align="center">
   <p>
-    I am a Medical System Integrator Engineer with expertise in healthcare system integration and full-stack web development. My work involves integrating medical devices and healthcare systems through interface protocols, transforming data into JSON, and delivering it to systems such as HIS, LIS, and RIS.
+    I am a Medical System Integrator Engineer with expertise in healthcare system integration and full-stack developer. My work involves integrating medical devices and healthcare systems through interface protocols, transforming data into JSON, and delivering it to systems such as HIS, LIS, and RIS.
 
 Beyond system integration, I build modern web applications using Next.js and Nest.js, with a strong focus on developing scalable RESTful APIs and efficient backend solutions.
 
