@@ -102,7 +102,7 @@ Beyond system integration, I build modern web applications using Next.js and Nes
 ###
 <h3 align="left">Support Me :</h3>
 <div align="center">
-  <img src="./Desain%20tanpa%20judul.png" width="500" alt="Desain" />
+  <img src="./araniverse.png" width="500" alt="Desain" />
 </div>
 
 ###
